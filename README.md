@@ -5,13 +5,7 @@ This is my personal portfolio website created as part of my internship assignmen
 ## 🔗 Live Preview
 
 Check out the live site here:  
-[https://yourusername.github.io/assignment1-portfolio](https://yourusername.github.io/assignment1-portfolio)  
-*(Replace `yourusername` with your actual GitHub username)*
-
----
-
-## 📁 Project Structure
-
+[https://manojkoushik5.github.io/Personal-Portofolio-website](https://manojkoushik5.github.io/Personal-Portofolio-website)
 
 ---
 
